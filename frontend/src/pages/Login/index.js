@@ -142,7 +142,7 @@ const handleChangeInput = (name, value) => {
 	return (
 		<>
 			<Helmet>
-				<title>{appName || "WORKZAP"}</title>
+				<title>{appName || "GBSOficial"}</title>
 				<link rel="icon" href={appLogoFavicon || "/default-favicon.ico"} />
 			</Helmet>
 			<div className={classes.root}>
